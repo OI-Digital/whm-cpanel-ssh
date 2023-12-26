@@ -6,3 +6,4 @@
 * Connect in terminal: ssh -p 22 -i /home/user/Documents/Work/id_rsa.pub cpanel-username@whm-ip-address
 
 https://docs.cpanel.net/cpanel/security/ssh-access/
+Clook SSH port numbers are 8899
